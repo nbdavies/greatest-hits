@@ -1,0 +1,39 @@
+td {
+	height: 50px;
+	width: 50px;
+	border: 1px solid gray;
+	vertical-align: top;
+}
+span {
+	width: 50px;
+	height: 50px;
+	border-radius: 5px;
+	display: block;
+	font-family: sans-serif;
+	padding: 17px;
+	box-sizing: border-box;
+	color: white;
+	position: absolute;
+}
+.num2 {
+	background-color: #4444FF;
+}
+.num4 {
+	background-color: #44AADD;
+}
+.num8 {
+	background-color: #44DDAA;
+}
+.num16 {
+	background-color: #22DD44;
+}
+.num32 {
+	background-color: #AAAA44;
+}
+.num64 {
+	background-color: #DDAA22;
+}
+.num128 {
+	background-color: #FF4444;
+	padding: 15px%;
+}
